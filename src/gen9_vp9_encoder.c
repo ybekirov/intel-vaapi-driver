@@ -46,7 +46,7 @@
 #include "vp9_probs.h"
 #include "gen9_vp9_const_def.h"
 
-#define MAX_VP9_ENCODER_FRAMERATE       60
+#define MAX_VP9_ENCODER_FRAMERATE       120
 #define MAX_VP9_ENCODER_SURFACES        64
 
 #define MAX_URB_SIZE                    4096 /* In register */
